@@ -1,0 +1,15 @@
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\bin\Debug\net6.0\SortApp.exe
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\bin\Debug\net6.0\SortApp.deps.json
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\bin\Debug\net6.0\SortApp.runtimeconfig.json
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\bin\Debug\net6.0\SortApp.dll
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\bin\Debug\net6.0\SortApp.pdb
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\obj\Debug\net6.0\SortApp.csproj.AssemblyReference.cache
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\obj\Debug\net6.0\SortApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\obj\Debug\net6.0\SortApp.AssemblyInfoInputs.cache
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\obj\Debug\net6.0\SortApp.AssemblyInfo.cs
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\obj\Debug\net6.0\SortApp.csproj.CoreCompileInputs.cache
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\obj\Debug\net6.0\SortApp.dll
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\obj\Debug\net6.0\refint\SortApp.dll
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\obj\Debug\net6.0\SortApp.pdb
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\obj\Debug\net6.0\SortApp.genruntimeconfig.cache
+C:\Users\SESA720307\source\personal\SortApp\SortApp\SortApp\obj\Debug\net6.0\ref\SortApp.dll
